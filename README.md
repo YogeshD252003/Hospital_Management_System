@@ -1,6 +1,7 @@
 Encapsution concept example:
 
-2. Hospital Management System 
+ Hospital Management System 
+
 Problem Statement: 
 Create a system to manage patient information while protecting sensitive data using encapsulation. 
 Requirements: 
